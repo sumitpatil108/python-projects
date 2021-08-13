@@ -9,8 +9,8 @@ AGE = 21
 #os.environ["age"] = "21"
 print(os.getenv("age"))
 
-APP_ID = "42847c3a"#os.environ["YOUR_APP_ID"]
-API_KEY = "bef8e578c1dbf5c4870cdf069ee43e1a"#os.environ["YOUR_API_KEY"]
+APP_ID = ""#os.environ["YOUR_APP_ID"]
+API_KEY = ""#os.environ["YOUR_API_KEY"]
 
 exercise_endpoint = "https://trackapi.nutritionix.com/v2/natural/exercise"
 sheet_endpoint = "https://api.sheety.co/e33792796a0909dc193619fd419718e2/copyOfMyWorkouts/workouts"#os.environ["YOUR_SHEET_ENDPOINT"]
